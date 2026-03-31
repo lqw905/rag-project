@@ -1,9 +1,7 @@
 """
 基于Streamlit完成WEB网页上传服务
 
-pip install streamlit
 
-Streamlit：当WEB页面元素发生变化，则代码重新执行一遍
 """
 import time
 
